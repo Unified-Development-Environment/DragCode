@@ -1,0 +1,72 @@
+CACHE MANIFEST
+
+CACHE:
+/DragCode/semantic.js
+/DragCode/main.js
+/DragCode/pxtapp.js
+/DragCode/typescript.js
+/DragCode/marked/marked.min.js
+/DragCode/highlight.js/highlight.pack.js
+/DragCode/jquery.js
+/DragCode/pxtlib.js
+/DragCode/pxtcompiler.js
+/DragCode/pxtpy.js
+/DragCode/pxtblockly.js
+/DragCode/pxtwinrt.js
+/DragCode/pxteditor.js
+/DragCode/pxtsim.js
+/DragCode/pxtembed.js
+/DragCode/pxtworker.js
+/DragCode/pxtweb.js
+/DragCode/blockly.css
+/DragCode/semantic.css
+/DragCode/rtlsemantic.css
+
+
+
+
+
+# blockly
+/DragCode/blockly/media/sprites.png
+/DragCode/blockly/media/click.mp3
+/DragCode/blockly/media/disconnect.wav
+/DragCode/blockly/media/delete.mp3
+
+# monaco; keep in sync with webapp/public/index.html
+/DragCode/vs/loader.js
+/DragCode/vs/base/worker/workerMain.js
+/DragCode/vs/basic-languages/bat/bat.js
+/DragCode/vs/basic-languages/cpp/cpp.js
+/DragCode/vs/basic-languages/python/python.js
+/DragCode/vs/basic-languages/typescript/typescript.js
+/DragCode/vs/basic-languages/markdown/markdown.js
+/DragCode/vs/editor/editor.main.css
+/DragCode/vs/editor/editor.main.js
+/DragCode/vs/editor/editor.main.nls.js
+/DragCode/vs/language/json/jsonMode.js
+/DragCode/vs/language/json/jsonWorker.js
+/DragCode/vs/language/typescript/tsMode.js
+/DragCode/vs/language/typescript/tsWorker.js
+
+# charts
+/DragCode/smoothie/smoothie_compressed.js
+/DragCode/images/Bars_black.gif
+
+# gifjs
+/DragCode/gifjs/gif.js
+
+# ai
+/DragCode/ai.0.js
+
+/DragCode/worker.js
+/DragCode/monacoworker.js
+
+# ver Mon May 01 2023 14:42:06 GMT+0530 (India Standard Time)
+
+# target
+/DragCode/docs\static\hero.png
+
+/DragCode/target.js
+
+NETWORK:
+*
