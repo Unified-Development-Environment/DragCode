@@ -1,6 +1,8 @@
 # DragCode
 A Visual Programming based frontend for coding embedded systems.  
 
+[DragCode](https://unified-development-environment.github.io/DragCode/) - Static Version
+
 ## Introduction
 
 Visual programming, a programming paradigm like any other, is an exercise of programming using editable graphical components instead of writing textual code. It leverages the ability to design application programs via blocks, dataflow nodes, icons, etc. In contrast to the traditional text-based coding, this paradigm makes programming more accessible to a wider audience, including those without technical programming knowledge. Visual programming tools and platforms are often used to teach coding to school-level students as well as in lucrative businesses like video game design, robotic simulations, web design, etc. Scratch by MIT [5] and Blockly by Google [6] are two examples of visual programming languages. The value of visual programming lies in its ability to distill complex programming concepts into basic, intuitive visual elements that are easier for newcomers to understand and apply and users generally have a pleasant experience working with such frameworks.
